@@ -2,9 +2,10 @@
 learning of steganography
 
 - lsb.py
-    ![](./image/lsb.png)
-    ＊image source：[unsplash](https://unsplash.com/photos/r2nJPbEYuSQ)
+![](./image/lsb.png)
+<img src="./image/lsb.png" width="500">
+＊image source：[unsplash](https://unsplash.com/photos/r2nJPbEYuSQ)
 
 - dwt.py
-    ![](./image/dwt.png)
-    ＊image source：[unsplash](https://unsplash.com/photos/r2nJPbEYuSQ)
+<img src="./image/dwt.png" width="500">
+＊image source：[unsplash](https://unsplash.com/photos/r2nJPbEYuSQ)
